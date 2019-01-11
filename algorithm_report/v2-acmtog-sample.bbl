@@ -1,0 +1,103 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{00}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{{\tt DOI:}\penalty0{#1}\ }
+  \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       #1{#1}          \fi
+
+\bibitem[\protect\citeauthoryear{Dong, V.Chawla, and Swami}{Dong
+  et~al\mbox{.}}{2017}]%
+        {meta}
+{Yuxiao Dong}, {Nitesh V.Chawla}, {and} {Ananthram Swami}. 2017.
+\newblock \showarticletitle{metapath2vec: Scalable Representation Learning for
+  Heterogeneous Networks}.
+\newblock {\em Halifax, NS, Canada\/} (August 2017).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Mikolov, Chen, Corrado, and Dean}{Mikolov
+  et~al\mbox{.}}{2013}]%
+        {wv}
+{Tomas Mikolov}, {Kai Chen}, {Greg Corrado}, {and} {Jeffrey Dean}. 2013.
+\newblock \showarticletitle{Efficient Estimation of Word Representations in
+  Vector Space}.
+\newblock {\em CoRR\/} abs/1301.378 (2013).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sun and Han}{Sun and Han}{2014}]%
+        {MP}
+{Yizhou Sun} {and} {Jiawe Han}. 2014.
+\newblock \showarticletitle{Meta-Path-Based Search and Mining in Heterogeneous
+  Information Networks}.
+\newblock  (April 2014).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wasserman and Faust}{Wasserman and
+  Faust}{1994}]%
+        {WS}
+{Stanley Wasserman} {and} {Katherine Faust}. 1994.
+\newblock \showarticletitle{Social Network Analysis: Methods and Applications}.
+\newblock {\em Cambridge University Press\/} (1994).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wikipedia}{Wikipedia}{2017}]%
+        {wikipedia}
+{Wikipedia}. 2017.
+\newblock Heterogeneous network.
+\newblock   (January 2017).
+\newblock
+\newblock
+\shownote{https://en.wikipedia.org/wiki/Heterogeneous\_network.}
+
+
+\bibitem[\protect\citeauthoryear{Wikipedia}{Wikipedia}{2018}]%
+        {wikipediarw}
+{Wikipedia}. 2018.
+\newblock Random walk.
+\newblock   (December 2018).
+\newblock
+\newblock
+\shownote{https://en.wikipedia.org/wiki/Random\_walk.}
+
+
+\bibitem[\protect\citeauthoryear{Wikipedia}{Wikipedia}{2019}]%
+        {wikipediasn}
+{Wikipedia}. 2019.
+\newblock Social network.
+\newblock   (January 2019).
+\newblock
+\newblock
+\shownote{https://en.wikipedia.org/wiki/Social\_network.}
+
+
+\end{thebibliography}

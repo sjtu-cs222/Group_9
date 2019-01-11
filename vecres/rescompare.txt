@@ -1,0 +1,36 @@
+['qian zhang', 'xiaohua tian', 'shuochao yao', 'unicast', 'lower bound', 'ad hoc networks', 'correlation', 'throughput', 'scheduling', 
+'international conference on computer communications', 'xiaoying gan', 'yitao hu', 'visual communication', 'random processes', 'wireless sensor networks', 'mobile computing', 
+'object recognition', 'mobile communication', 'jinbei zhang', 'riheng jia', 'spectrum scarcity', 'sus', 'wireless network', 'mathematical model', 'protocols', 
+'cognitive radio', 'time division multiple access', 'yunxin liu', 'songwu lu', 'zilong zhou', 'tuo yu', 'da zhang', 'servers', 'wireless communication', 'bluetooth', 
+'rap', 'internet', 'gold', 'yang zhang', 'yiran zhao', 'xue liu', 'tianyuan liu', 'global positioning system', 'probability', 'acceleration', 'silicon']
+
+10000 个作者统计结果如下
+AKA AKVKA AA
+
+['Azilong.zhou', 'Ada.zhang', 'Axiaoying.gan', 'Ariheng.jia', 'Axiaohua.tian', 'Ajinbei.zhang', 'Ayitao.hu', 'Ayunxin.liu', 'Atuo.yu', 'Ashuochao.yao']
+['Kweb.based.application', 'Ksus', 'Kswap', 'Kglobal.warming', 'Kweb.design', 'Kgeo.location', 'Kpublish.subscribe', 'Knetwork.science', 'Kvisual.communication', 'Ksocial.influence']
+['Voperating.systems.design.and.implementation', 'Vcompiler.construction', 'Vacm.special.interest.group.on.data.communication']
+A：78.563%
+K、V not accurate
+AKA AVA AA 
+['Axiaoying.gan', 'Axiaohua.tian', 'Ayitao.hu', 'Ada.zhang', 'Atuo.yu', 'Azilong.zhou', 'Ariheng.jia', 'Ajinbei.zhang', 'Ayunxin.liu', 'Ashuochao.yao']
+['Ksocial.development', 'Kproperty.testing', 'Kswap', 'Kagile.development', 'Kprobability.and.statistics', 'Khsv.color.space', 'Kartifical.intelligence', 'Ksql.injections', 'Kexponential.decay', 'Kencrypted']
+['Vcompiler.construction', 'Voperating.systems.design.and.implementation', 'Vinternational.symposium.on.computer.architecture']
+A：82.343%
+K、V not accurate
+
+AKA AVA 
+100
+['Atuo.yu', 'Ajinbei.zhang', 'Ariheng.jia', 'Ada.zhang', 'Axiaohua.tian', 'Ayiran.zhao', 'Amin.chen', 'Ated.taekyoung.kwon', 'Ayunxin.liu', 'Axiaoying.gan']
+['Kbranching.program', 'Kcost.factor', 'Kcommunication.ports', 'Kfeature.vector', 'Kimage.texture', 'Ksystem.dynamics', 'Kmembrane.potential', 'Kqueueing', 'Kmedical.imaging', 'Kdiscrete.wavelet.transform']
+['Vcompiler.construction', 'Voperating.systems.design.and.implementation', 'Vinternational.symposium.on.computer.architecture']
+A：83.152%
+K、V not accurate
+
+1000
+['Axiaohua.tian', 'Atuo.yu', 'Ariheng.jia', 'Ajinbei.zhang', 'Aqian.zhang', 'Axiaoying.gan', 'Ayunxin.liu', 'Azilong.zhou', 'Ada.zhang', 'Ayitao.hu']
+['Kwireless.communication', 'Kservers', 'Ksilicon', 'Kmobile.computing', 'Kgold', 'Kmobile.communication', 'Kgreedy.algorithms', 'Koptimization', 'Kspectrum.scarcity', 'Kscheduling']
+['Vcompiler.construction', 'Voperating.systems.design.and.implementation', 'Vacm.ieee.international.conference.on.mobile.computing.and.networking']
+A：83.152%
+K：72.438%
+V：79.713%
